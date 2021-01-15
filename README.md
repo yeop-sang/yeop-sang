@@ -1,6 +1,9 @@
-### Hi there 👋
-
+### I'm yeop 👋
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=is-yeop&show_icons=true&theme=dracula)
+
+Contact: <a href = "mailto: yeop@soongsil.ac.kr">syk7372@gmail.com</a>
+
+webSite: <a href = "http://yeop.kr">yeop.kr</a>is in the process of making.
 
 <!--
 **is-yeop/is-yeop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
