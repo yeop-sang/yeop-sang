@@ -1,6 +1,8 @@
 ### I'm yeop 👋
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=is-yeop&show_icons=true&theme=dracula)
 
+[![yeop's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yeop)](https://github.com/anuraghazra/github-readme-stats)
+
 Contact: <a href = "mailto: yeop@soongsil.ac.kr">syk7372@gmail.com</a>
 
 webSite: <a href = "http://yeop.kr">yeop.kr</a>is in the process of making.
