@@ -1,5 +1,5 @@
 ### I'm yeop 👋
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=is-yeop&show_icons=true&theme=dracula)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=is-yeop&show_icons=true)
 
 [![yeop's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yeop&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
