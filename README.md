@@ -1,7 +1,7 @@
 ### I'm yeop 👋
 [![yeop's github stats](https://github-readme-stats.vercel.app/api?username=yeop-sang&show_icons=true)](https://github.com/yeop-sang)
 
-[![yeop's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yeop&range=last_14_days&lang_count=8)](https://wakatime.com/@yeop)
+[![yeop's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?shareid=yeop/bb93cf42-98b7-4068-b3f3-a79a21ad6838)](https://wakatime.com/@yeop)
 
 Contact: <a href = "mailto: yeop@soongsil.ac.kr">syk7372@gmail.com</a>
 
