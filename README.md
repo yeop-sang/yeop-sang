@@ -3,6 +3,8 @@
 
 [![yeop's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yeop&layout=compact)](https://wakatime.com/@yeop)
 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=equalia)](https://solved.ac/softwaremasteryeop/)
+
 Contact: <a href = "mailto: yeop@soongsil.ac.kr">syk7372@gmail.com</a>
 
 webSite: <a href = "http://yeop.kr">yeop.kr</a>is in the process of making.
