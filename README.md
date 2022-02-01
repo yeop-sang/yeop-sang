@@ -3,7 +3,7 @@
 
 [![yeop's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yeop&layout=compact)](https://wakatime.com/@yeop)
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=equalia)](https://solved.ac/softwaremasteryeop/)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=softwaremasteryeop)](https://solved.ac/softwaremasteryeop/)
 
 Contact: <a href = "mailto: yeop@soongsil.ac.kr">syk7372@gmail.com</a>
 
