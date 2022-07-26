@@ -1,7 +1,9 @@
 ### I'm yeop 👋
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yeop-sang&show_icons=true)
-
-[![yeop's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yeop&layout=compact)](https://wakatime.com/@yeop)
+<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yeop-sang&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br>
+[![yeop's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yeop&layout=compact&langs_count=10&percentage)](https://wakatime.com/@yeop)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=softwaremasteryeop)](https://solved.ac/softwaremasteryeop/)
 
